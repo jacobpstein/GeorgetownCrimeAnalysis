@@ -1,3 +1,3 @@
 # Repo moved
 
-This repo has been moved to the boston-crime report [here](https://github.com/georgetown-analytics/boston-crime).
+This repo has been moved to the boston-crime repo [here](https://github.com/georgetown-analytics/boston-crime).

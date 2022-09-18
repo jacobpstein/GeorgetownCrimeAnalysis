@@ -1,6 +1,5 @@
-# GeorgetownCrimeAnalysis
-
-This repo contains the code and output for the Georgetown Certificate in Data Science capstone project related to analysis of crime data.
+# boston-crime
+Cohort 28 Capstone Project for the Certificate of Data Science at Georgetown University School of Continuing Studies.
 
 The [Data folder](https://github.com/jacobpstein/GeorgetownCrimeAnalysis/tree/main/01%20data) contains data files for analysis.
 
